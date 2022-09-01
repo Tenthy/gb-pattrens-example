@@ -1,4 +1,4 @@
-package ru.kmetha.patterns.entity;
+package ru.kmetha.patterns.entity.builders;
 
 public class Car {
 
